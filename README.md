@@ -23,8 +23,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajcandelaria18&show_icons=true&locale=en&layout=compact" alt="ajcandelaria18" /></p>
 
-<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajcandelaria18&show_icons=true&locale=en" alt="ajcandelaria18" /></p>
+<p>&nbsp;
+<br /><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajcandelaria18&show_icons=true&locale=en" alt="ajcandelaria18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajcandelaria18&" alt="ajcandelaria18" /></p>
