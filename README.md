@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ThayThrifts**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs and Firebase**
 
 - 💬 Ask me about **Laravel 8 and Android Studio**
 
