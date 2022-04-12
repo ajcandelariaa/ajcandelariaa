@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **ReactJs and Firebase**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Laravel 8 and Android Studio**
 
