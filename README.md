@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **reactjs-curly-curls**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS and WordPress**
 
 - 💬 Ask me about **Laravel 8 and Android Studio**
 
