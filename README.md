@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **ReactJS and WordPress**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Laravel 8 and Android Studio**
+- 💬 Ask me about **Laravel 8 and ReactJS**
 
 - 📫 How to reach me **ajajcandelaria@gmail.com**
 
