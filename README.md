@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajcandelariaa&label=Profile%20views&color=0e75b6&style=flat" alt="ajcandelariaa" /> </p>
 
 
-- 🔭 I’m currently working on **nothing**
-
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Laravel 8 and ReactJS**
