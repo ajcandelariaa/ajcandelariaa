@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Laravel 8 and ReactJS**
+- 💬 Ask me about **Laravel and ReactJS**
 
 - 📫 How to reach me **ajajcandelaria@gmail.com**
 
